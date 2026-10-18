@@ -1,0 +1,79 @@
+name,cuisine,diet,course,spice,calories,prep_time,ingredients,tags,protein_g,carbs_g,fat_g,serving_g,pairing,recipe_steps
+Paneer Butter Masala,Indian,veg,main,3,450,35,paneer;tomato;butter;cream;spices,creamy rich curry,18,15,35,300,Naan|Chapathi|Porotta|Appam,"Simmer paneer in a spiced tomato, butter and cream sauce until tender."
+Chicken Biryani,Indian,non-veg,main,4,600,60,chicken;basmati rice;yogurt;spices;onion,rice festive aromatic,28,70,22,350,,
+Masala Dosa,Indian,vegan,breakfast,2,350,30,rice;lentils;potato;onion;spices,crispy south-indian fermented,7,55,12,150,,
+Idli Sambar,Indian,vegan,breakfast,1,250,25,rice;lentils;vegetables;tamarind,steamed light south-indian,8,45,5,250,,
+Dal Tadka,Indian,vegan,main,2,300,30,lentils;tomato;garlic;cumin;spices,comfort protein,15,35,10,300,Chapathi|Naan|Porotta|Appam,"Cook lentils until soft, then finish with a hot garlic, cumin and tomato tempering."
+Chole Bhature,Indian,veg,main,3,650,45,chickpeas;flour;yogurt;spices;onion,fried hearty,15,80,28,300,Bhatura|Chapathi|Appam,"Simmer chickpeas with onion, tomato and spices; serve with bhature or a lighter bread."
+Fish Curry,Indian,non-veg,main,4,380,35,fish;coconut;tamarind;chili;spices,coastal tangy curry,25,10,25,300,Appam|Chapathi|Porotta|Steamed rice,"Gently simmer fish in a coconut, tamarind and chilli sauce until just cooked."
+Appam with Stew,Indian,vegan,breakfast,1,400,40,rice;coconut milk;potato;vegetables;spices,soft mild coastal,8,55,16,300,,
+Butter Chicken,Indian,non-veg,main,3,500,45,chicken;tomato;butter;cream;spices,creamy rich curry,28,15,35,300,Naan|Chapathi|Porotta|Appam,"Cook chicken in a tomato, butter and cream sauce with garam masala."
+Samosa,Indian,vegan,snack,3,260,40,potato;peas;flour;spices,fried crispy street-food,5,30,13,100,,
+Gulab Jamun,Indian,veg,dessert,0,300,40,milk solids;sugar;cardamom;ghee,sweet syrupy festive,4,45,11,100,,
+Margherita Pizza,Italian,veg,main,0,700,30,flour;tomato;mozzarella;basil,baked cheesy classic,25,90,25,300,,
+Spaghetti Carbonara,Italian,non-veg,main,1,600,25,pasta;egg;bacon;parmesan;pepper,creamy rich pasta,22,65,27,300,,
+Penne Arrabbiata,Italian,vegan,main,3,450,25,pasta;tomato;garlic;chili;olive oil,spicy pasta,12,75,10,300,,
+Lasagna,Italian,non-veg,main,1,650,90,pasta;beef;tomato;bechamel;cheese,baked cheesy hearty,32,60,30,300,,
+Tiramisu,Italian,veg,dessert,0,450,30,mascarpone;coffee;egg;cocoa;ladyfingers,sweet creamy coffee,7,45,25,120,,
+Caprese Salad,Italian,veg,starter,0,250,10,tomato;mozzarella;basil;olive oil,fresh light salad,12,8,18,200,,
+Sushi Roll,Japanese,non-veg,main,1,350,45,rice;fish;seaweed;cucumber,fresh light raw,15,58,6,200,,
+Ramen,Japanese,non-veg,main,2,550,60,noodles;pork;egg;broth;scallion,soup comfort,25,65,20,400,,
+Miso Soup,Japanese,vegan,starter,0,80,10,miso;tofu;seaweed;scallion,light soup umami,6,7,3,250,,
+Veg Tempura,Japanese,vegan,snack,0,320,25,vegetables;flour;oil,fried crispy,5,35,17,150,,
+Tacos al Pastor,Mexican,non-veg,main,3,450,40,tortilla;pork;pineapple;onion;cilantro,street-food tangy,22,45,20,250,,
+Guacamole with Chips,Mexican,vegan,snack,1,300,15,avocado;lime;onion;cilantro;corn chips,fresh creamy,5,30,18,150,,
+Bean Burrito,Mexican,vegan,main,2,500,25,tortilla;beans;rice;salsa;onion,hearty filling,16,75,14,300,,
+Chicken Quesadilla,Mexican,non-veg,main,2,550,20,tortilla;chicken;cheese;pepper,cheesy baked,28,45,28,250,,
+Pad Thai,Thai,non-veg,main,3,600,30,rice noodles;shrimp;egg;peanuts;lime;tamarind,tangy noodles,22,80,20,350,,
+Green Curry,Thai,non-veg,main,4,480,35,chicken;coconut milk;green chili;basil;eggplant,coconut spicy curry,25,20,32,300,Roti|Jasmine rice|Appam,"Simmer chicken, eggplant and green curry paste in coconut milk; finish with basil."
+Tom Yum Soup,Thai,non-veg,starter,4,150,25,shrimp;lemongrass;lime;chili;mushroom,sour spicy soup,15,10,5,300,,
+Mango Sticky Rice,Thai,vegan,dessert,0,400,30,sticky rice;mango;coconut milk;sugar,sweet fruity,5,70,10,200,,
+Greek Salad,Mediterranean,veg,starter,0,220,10,cucumber;tomato;feta;olives;olive oil,fresh light salad,7,12,16,250,,
+Falafel Wrap,Mediterranean,vegan,main,1,480,30,chickpeas;pita;tahini;lettuce;tomato,crispy protein street-food,16,60,18,300,,
+Hummus with Pita,Mediterranean,vegan,snack,0,280,10,chickpeas;tahini;lemon;garlic;pita,creamy protein light,9,35,11,200,,
+Chicken Shawarma,Mediterranean,non-veg,main,2,600,35,chicken;pita;garlic sauce;pickles;spices,street-food hearty,32,60,25,300,,
+Baklava,Mediterranean,veg,dessert,0,430,60,phyllo;nuts;honey;butter,sweet crispy,6,50,22,80,,
+Cheeseburger,American,non-veg,main,1,750,25,beef;bun;cheese;lettuce;tomato,fast-food hearty,35,50,45,250,,
+Caesar Salad,American,non-veg,starter,0,350,15,lettuce;chicken;parmesan;croutons,fresh salad,25,12,22,250,,
+Pancakes,American,veg,breakfast,0,450,20,flour;milk;egg;maple syrup;butter,sweet fluffy,10,65,15,200,,
+Mac and Cheese,American,veg,main,0,600,30,pasta;cheddar;milk;butter,cheesy comfort creamy,22,60,28,300,,
+Kung Pao Chicken,Chinese,non-veg,main,4,500,25,chicken;peanuts;chili;soy sauce;garlic,spicy stir-fry,30,25,30,300,,
+Veg Fried Rice,Chinese,vegan,main,1,420,20,rice;vegetables;soy sauce;garlic;scallion,stir-fry quick,8,75,10,300,,
+Mapo Tofu,Chinese,non-veg,main,5,400,25,tofu;pork;chili;sichuan pepper;garlic,spicy numbing,22,15,28,300,,
+Dim Sum,Chinese,non-veg,snack,1,300,50,flour;shrimp;pork;ginger,steamed bite-size,14,35,11,200,,
+Vegetable Manchurian,Chinese,vegan,starter,3,350,30,cabbage;carrot;soy sauce;garlic;cornflour,fried tangy indo-chinese,7,48,14,250,,
+Oats Porridge with Fruit,Healthy,vegan,breakfast,0,250,10,oats;banana;berries;nuts,light healthy quick,7,45,5,250,,
+Grilled Salmon Bowl,Healthy,non-veg,main,0,520,30,salmon;quinoa;broccoli;lemon,healthy protein light,35,38,25,350,,
+Quinoa Veg Bowl,Healthy,vegan,main,0,380,25,quinoa;chickpeas;spinach;avocado;lemon,healthy protein fresh,14,50,14,300,,
+Palak Paneer,Indian,veg,main,2,420,35,paneer;spinach;tomato;garlic;ginger;cream,spinach curry creamy iron-rich,22,18,26,300,Naan|Chapathi|Porotta|Appam,"Cook spinach with garlic and spices, blend smooth, then simmer with paneer."
+Aloo Gobi,Indian,vegan,main,2,320,35,potato;cauliflower;tomato;ginger;turmeric;spices,dry curry homestyle,8,48,10,300,Chapathi|Roti|Appam,"Sauté potato and cauliflower with turmeric, cumin, tomato and ginger until tender."
+Rajma Masala,Indian,vegan,main,3,390,50,kidney beans;tomato;onion;ginger;garlic;spices,curry protein comfort,18,58,8,320,Chapathi|Roti|Appam|Steamed rice,Simmer kidney beans in a tomato-onion masala until thick and soft.
+Kadai Paneer,Indian,veg,main,3,460,35,paneer;bell pepper;tomato;onion;spices,curry peppery north-indian,23,22,29,300,Naan|Chapathi|Porotta|Appam,"Sauté paneer and peppers with crushed coriander, tomato and kadai spices."
+Kerala Egg Curry,Indian,non-veg,main,3,390,35,egg;coconut milk;onion;tomato;curry leaves;spices,curry coastal coconut,20,18,25,300,Appam|Chapathi|Porotta|Steamed rice,"Simmer boiled eggs in a coconut milk curry with onion, tomato and curry leaves."
+Chicken Chettinad,Indian,non-veg,main,4,470,50,chicken;black pepper;fennel;coconut;onion;spices,curry south-indian peppery,34,16,28,300,Porotta|Chapathi|Appam,"Toast pepper and fennel, grind with spices, then simmer with chicken and coconut."
+Vegetable Korma,Indian,vegan,main,1,380,35,mixed vegetables;coconut milk;cashew;ginger;spices,curry mild creamy,10,40,20,300,Chapathi|Appam|Roti,Simmer mixed vegetables in a mild coconut and cashew sauce until tender.
+Tandoori Chicken,Indian,non-veg,main,3,430,45,chicken;yogurt;lemon;ginger;garlic;spices,grilled smoky high-protein,38,12,22,300,Naan|Chapathi|Porotta,"Marinate chicken in yogurt, lemon and spices, then roast or grill until cooked through."
+Lemon Rice,Indian,vegan,main,1,330,20,rice;lemon;peanuts;mustard seeds;curry leaves;turmeric,quick tangy south-indian,8,58,9,280,,"Toss cooked rice with lemon, turmeric and a quick mustard-seed tempering."
+Vegetable Upma,Indian,vegan,breakfast,1,290,25,semolina;carrot;peas;onion;mustard seeds;ginger,quick savory breakfast,8,48,7,250,,"Toast semolina, then simmer with sautéed vegetables and seasoned water."
+Vegetable Pulao,Indian,vegan,main,1,360,35,basmati rice;peas;carrot;beans;whole spices,one-pot aromatic,9,66,7,300,,Cook basmati rice with vegetables and whole spices until fluffy.
+Pesarattu,Indian,vegan,breakfast,2,310,25,mung beans;ginger;chilli;onion;cumin,crispy protein south-indian,16,42,6,180,,"Blend soaked mung beans with ginger, spread thinly and pan-cook with onion."
+Sambar Rice,Indian,vegan,main,2,390,40,rice;lentils;tamarind;vegetables;sambar powder,one-pot south-indian comfort,14,68,7,350,,"Cook rice and lentils with vegetables, tamarind and sambar spices until soft."
+Chicken Tikka Masala,Indian,non-veg,main,3,520,50,chicken;yogurt;tomato;cream;ginger;garam masala,curry creamy grilled,36,20,30,320,Naan|Chapathi|Porotta|Appam,"Grill spiced chicken pieces, then simmer them in a tomato and cream masala."
+Kadhi Pakora,Indian,veg,main,2,410,45,yogurt;gram flour;onion;chickpea flour;spices,curry tangy north-indian,15,42,18,320,Chapathi|Naan|Porotta,"Simmer a yogurt and gram-flour curry, add onion fritters and cook until tender."
+Masoor Dal,Indian,vegan,main,2,340,30,red lentils;tomato;onion;garlic;cumin;turmeric,curry quick protein,18,48,6,300,Chapathi|Roti|Appam|Steamed rice,"Simmer red lentils with tomato and turmeric, then season with cumin and garlic."
+Pesto Penne,Italian,veg,main,1,520,25,penne;basil;pesto;parmesan;olive oil;pine nuts,pasta herby quick,18,68,19,320,,"Toss cooked penne with basil pesto, parmesan and a splash of pasta water."
+Mushroom Risotto,Italian,veg,main,0,480,40,arborio rice;mushroom;parmesan;onion;vegetable stock,creamy comfort,16,68,15,300,,Add warm stock gradually to toasted rice; stir in mushrooms and parmesan.
+Minestrone Soup,Italian,vegan,main,1,310,35,white beans;tomato;carrot;celery;pasta;vegetable stock,soup hearty vegetable,14,48,6,400,,"Simmer beans, vegetables and pasta in tomato broth until the pasta is tender."
+Vegetable Enchiladas,Mexican,veg,main,2,490,45,corn tortillas;black beans;corn;tomato sauce;cheese;pepper,baked cheesy filling,20,62,17,320,,"Fill tortillas with beans and vegetables, cover with salsa and bake until bubbling."
+Chicken Fajitas,Mexican,non-veg,main,3,470,30,chicken;bell pepper;onion;lime;paprika;tortilla,sizzling high-protein,36,42,14,300,,Sear seasoned chicken and peppers; finish with lime and serve with warm tortillas.
+Black Bean Tostadas,Mexican,vegan,main,2,430,25,black beans;corn tostada;avocado;tomato;lettuce;lime,crunchy fresh protein,16,58,14,280,,"Layer seasoned black beans, avocado, tomato and lettuce on crisp tostadas."
+Tofu Red Curry,Thai,vegan,main,3,450,35,tofu;red curry paste;coconut milk;bamboo shoots;bell pepper,curry coconut spicy,20,34,27,320,Roti|Jasmine rice|Appam,Simmer tofu and vegetables in red curry paste and coconut milk until tender.
+Chicken Satay,Thai,non-veg,main,2,510,35,chicken;peanut butter;soy sauce;lime;coconut milk,grilled nutty street-food,38,22,28,280,,"Marinate chicken strips, grill until cooked and serve with a lime-peanut sauce."
+Pad See Ew,Thai,non-veg,main,1,570,25,rice noodles;chicken;egg;broccoli;soy sauce,stir-fry savory,28,72,17,350,,"Stir-fry wide rice noodles with chicken, egg, greens and a savoury soy sauce."
+Teriyaki Tofu Bowl,Japanese,vegan,main,1,440,30,tofu;rice;broccoli;soy sauce;ginger;sesame,sweet-savory protein bowl,22,58,13,330,,"Pan-sear tofu, glaze with ginger-soy teriyaki and serve with rice and broccoli."
+Bibimbap,Korean,veg,main,2,520,40,rice;spinach;carrot;mushroom;egg;gochujang,colorful bowl balanced,18,72,16,350,,"Arrange seasoned vegetables over rice, top with egg and serve with gochujang."
+Shakshuka,Mediterranean,veg,main,2,360,30,egg;tomato;bell pepper;onion;paprika,one-pan brunch protein,20,24,18,300,Chapathi|Naan|Appam,"Simmer peppers and tomatoes with paprika, then poach eggs in the sauce."
+Mujaddara,Mediterranean,vegan,main,1,390,45,lentils;rice;onion;cumin;olive oil,lentil rice comfort protein,16,66,8,320,,Cook rice and lentils together; top with deeply caramelized onions.
+Ratatouille,French,vegan,main,1,360,55,eggplant;zucchini;tomato;bell pepper;garlic;herbs,slow-cooked vegetable classic,9,42,15,320,,"Layer sliced vegetables with tomato, garlic and herbs; bake until soft."
+Three-Bean Veggie Chili,American,vegan,main,3,420,45,kidney beans;black beans;pinto beans;tomato;corn;chilli,hearty bean chili,22,68,8,350,,"Simmer three beans with tomato, corn and chilli until thick."
+BBQ Chicken Bowl,American,non-veg,main,1,560,35,chicken;rice;corn;barbecue sauce;slaw,smoky hearty high-protein,38,62,16,350,,Grill chicken with barbecue sauce and serve over rice with corn and slaw.
